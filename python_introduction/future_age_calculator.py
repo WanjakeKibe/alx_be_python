@@ -1,4 +1,4 @@
 age = int(input("How old are you? "));
-in_2050 = age + 27
+age_in_2050 = age + 27
 
 print("In 2050, you will be  years old",age_in_2050);
