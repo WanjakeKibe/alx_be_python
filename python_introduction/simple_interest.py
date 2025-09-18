@@ -1,6 +1,6 @@
- Principle = 1000
- Rate = 0.05
- Time = 3
- I = Principle * Time * Rate
-print('The simple interest is',I);
+ principal = 1000
+ rate = 0.05
+ time = 3
+ i = principle * time * rate
+print('The simple interest is',i);
 
